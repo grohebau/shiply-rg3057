@@ -1,0 +1,48 @@
+{
+  "SE428152694DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Nyssen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Gerd Winkler, Deichselberg 35, 08538 Weischlitz (Kröstau), Deutschland",
+    "price": "2.675,00 €",
+    "description": "Hersteller: Suzuki<br>Typ: RGV 250 VJ22A<br>Fahrgestelnummer: VJ22A105194<br>Erstzulassung: 16.07.1991<br>KM laut Vorbesitzer: 4807 km<br>Leistung: 39 kW (59 PS)<br>Hubraum: 249 cm³<br>Farbe: Schwarz<br><br>Der Motor läuft sehr gut.<br>Allerdings ist das Motorrad restaurierungsbedürftig.<br>Deutsche Papiere sind vorhanden und vollständig.
+",
+    "address": "Gerd Winkler<br>Deichselberg 35<br>08538 Weischlitz (Kröstau)<br>Deutschland<br>Telefon: +49 176 70725343",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "05.03.2026",
+    "deliveryDate": "10.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
